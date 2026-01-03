@@ -1,0 +1,7 @@
+{
+  "name": "TOOL IMAGES AI PRO",
+  "description": "Công cụ chỉnh sửa ảnh TOOL IMAGES AI PRO Version 1.1",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
